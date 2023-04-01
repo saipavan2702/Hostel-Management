@@ -29,15 +29,16 @@
     "concurrently": "^5.3.0",
     "express": "^4.16.4",
     "gravatar": "^1.8.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
+    "jwt-decode": "^3.1.2",
     "mongoose": "^5.7.5",
-    "passport": "^0.4.1",
+    "passport": "^0.6.0",
     "passport-jwt": "^4.0.0",
-    "validator": "^12.1.0"
+    "validator": "^13.9.0"
   },
   "devDependencies": {
     "jest": "^26.6.1",
-    "nodemon": "^1.18.10",
+    "nodemon": "^2.0.22",
     "supertest": "^6.0.0"
   }
 }
